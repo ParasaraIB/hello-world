@@ -1,6 +1,6 @@
 # hello-world
 
-This is the first attempt.
+This is my first attempt.
 
 This is my initial touch with GitHub. I will use this platform to store up my projects while building up my portfolio.
 
